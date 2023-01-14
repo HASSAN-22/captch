@@ -1,0 +1,26 @@
+{
+    "name": "hasan/captcha",
+    "description": "Laravel simple captcha, to help you manage your captcha eaisly",
+    "keywords": [
+        "hasan",
+        "laravel",
+        "captcha"
+    ],
+    "homepage": "https://https://github.com/HASSAN-22/cpatcha",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hassan",
+            "email": "oussama@coderflex.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Captcha\\": "src/"
+        }
+    }
+}
