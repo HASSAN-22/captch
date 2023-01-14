@@ -1,6 +1,8 @@
 
 ### Laravel simple captcha
 
+<code>composer require hasan-22/captcha</code>
+
 <h1>usage:</h1>
 
 <p>You can use the "Captcha" facade to create an image and get the route<br>
