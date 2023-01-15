@@ -5,7 +5,7 @@
 
 <h1>usage:</h1>
 
-<p>You can use the "Captcha" facade to create an image and get the route<br>
+<p>You can use the "Captcha" facade to create an image and get the file path<br>
 </p>
 <code>$path = \Captcha\app\Facades\Captcha::setOption()->imageText('number',4)->save()</code><br>
 or<br>
